@@ -251,6 +251,11 @@
 /* mobile or only mobile */
 
 @media (max-width: 767px) {
+    .form-img,
+    .form-img img {
+        max-width: 100%;
+        width: 100%;
+    }
     p {
         text-align: left;
         /* text-justify: inter-word; */
