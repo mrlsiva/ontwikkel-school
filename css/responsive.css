@@ -256,10 +256,15 @@
         max-width: 100%;
         width: 100%;
     }
+    .bold-p p {
+        padding: 0 15px;
+    }
+    .paddding_15 {
+        padding: 0px 0;
+    }
     p {
         margin: 0 0 10px;
-        padding: 0 15px;
-        font-size: 16px;
+        font-size: 14px !important;
         text-align: left;
     }
     .hide-on-mobile {
@@ -488,10 +493,14 @@
         padding: 0 !important;
     }
     .myTab2 li a {
-        font-size: 12px;
+        font-size: 11px;
+    }
+    .nav-tabs.nav-justified>li {
+        min-height: 45px;
     }
     .nav>li>a {
-        padding: 10px 10px;
+        padding: 5px 0px !important;
+        margin-bottom: 0 !important;
     }
     .slide_text {
         margin-top: 10%;
