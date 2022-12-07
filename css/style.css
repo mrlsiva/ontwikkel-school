@@ -2698,8 +2698,8 @@ a.article:hover {
 .container-social .icon span {
     position: relative;
     display: block;
-    height: 60px;
-    width: 60px;
+    height: 50px;
+    width: 50px;
     background: #fff;
     border-radius: 0%;
     z-index: 2;
@@ -2708,7 +2708,7 @@ a.article:hover {
 }
 
 .container-social .icon span i {
-    line-height: 60px;
+    line-height: 50px;
     font-size: 25px;
     color: #fff;
 }

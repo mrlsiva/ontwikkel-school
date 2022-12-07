@@ -251,6 +251,10 @@
 /* mobile or only mobile */
 
 @media (max-width: 767px) {
+    p {
+        text-align: left;
+        /* text-justify: inter-word; */
+    }
     .hide-on-mobile {
         display: none;
     }
