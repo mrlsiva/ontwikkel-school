@@ -460,6 +460,15 @@
     .title-border:after {
         content: none !important;
     }
+    h2.mt-5.mb-5.title.title-border {
+        margin: 10px auto;
+        padding: 0;
+        margin-top: 10px !important;
+        margin-bottom: 10px !important;
+    }
+    .mt-5 {
+        margin-top: 10px !important;
+    }
     .title {
         letter-spacing: 1px;
         font-size: 28px;
